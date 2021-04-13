@@ -1,5 +1,5 @@
 {
-  "name": "openblock-github-download",
+  "name": "openblock-github-dl",
   "version": "0.5.0",
   "description": "Easily download Github repos without any external dependencies such as Git, Tar, Unzip, etc.",
   "repository": {

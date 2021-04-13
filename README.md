@@ -1,7 +1,7 @@
 Node.js - github-download
 ================
 
-[![build status](https://secure.travis-ci.org/jprichardson/node-github-download.svg)](http://travis-ci.org/jprichardson/node-github-download)
+[![build status](https://travis-ci.com/openblockcc/openblock-github-download.svg?branch=main)](https://travis-ci.com/openblockcc/openblock-github-download.svg?branch=main)
 
 Easily download Github repos without any external dependencies such as Git, Tar, Unzip, etc.
 
@@ -15,7 +15,7 @@ I really like the concept of managing user defined projects, repos, file structu
 Installation
 ------------
 
-    npm install github-download
+    npm install openblock-github-dl
 
 
 
